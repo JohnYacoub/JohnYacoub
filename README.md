@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 
-** `JohnYacoub` is a ✨ _Passionate Programmer_ ✨ Enjoys solving complex problems ✨ sees life as big a `{ }` with data in it!! 
+** `JohnYacoub` is a ✨ _Passionate Programmer_ ✨ Enjoys solving complex problems ✨ sees life as big a nested `{ }` ! 
 👋👋👋
 
 - 🔭 I’m currently working on Mobile based app for managing Parking LOTs,...
