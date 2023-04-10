@@ -12,5 +12,5 @@
   ### <div align="center">🔥🔥🔥 OneWheel Lover and Rider!🔥🔥🔥 </div>
  
 
-  <div align="center">![img](https://media.giphy.com/media/bztF0BLsfDVPOEZqPc/giphy.gif)</div>
+  <div align="center"><img src="https://media.giphy.com/media/bztF0BLsfDVPOEZqPc/giphy.gif"></div>
 
